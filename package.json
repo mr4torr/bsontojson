@@ -1,0 +1,27 @@
+{
+  "name": "bsontojson",
+  "version": "1.0.0",
+  "description": "Convert multiple bson files to json files",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "mr4torr",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr4torr/bsontojson.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mr4torr/bsontojson/issues"
+  },
+  "homepage": "https://github.com/mr4torr/bsontojson#readme",
+  "keywords": [
+    "bson",
+    "convert",
+    "json"
+  ],
+  "dependencies": {
+    "bson": "^4.7.2"
+  }
+}
